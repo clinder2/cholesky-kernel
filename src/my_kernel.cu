@@ -1,4 +1,3 @@
-%%writefile main.cu
 #include <iostream>
 #include <cuda_runtime.h>
 #include "my_kernel.cuh"

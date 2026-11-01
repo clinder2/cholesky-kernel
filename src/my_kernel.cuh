@@ -1,4 +1,3 @@
-%%writefile my_kernel.cuh
 #ifndef MY_KERNEL_CUH
 #define MY_KERNEL_CUH
 
